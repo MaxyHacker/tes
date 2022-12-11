@@ -52,7 +52,7 @@ But some I haven't changed the language 🛐
 
 # Instalasi
 ## FOR REPLIT USER
-[![Run on Repl.it](https://repl.it/badge/github/zeeone-ofc/Alphabot-Md)](https://repl.it/github/zeeone-ofc/Alphabot-Md)
+[![Run on Repl.it](https://repl.it/badge/github/MaxyHacker/tes)](https://repl.it/github/MaxyHacker/tes)
 
 [`Click Here For Tutorial`](https://youtu.be/jom_scHK09c)<br>
 
